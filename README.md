@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Pankaj Singh
 
-<!--
-**pankaj-singh7269/pankaj-singh7269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate | 📍 Agra, India  
+💻 Learning Python, HTML/CSS, and Data Science  
+🛠️ Building beginner-friendly web tools and dashboards  
+🎯 Future MCA Student – Focused on ML & Backend
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+- **Languages:** Python, HTML, CSS, MySQL  
+- **Tools:** GitHub, Excel (Advanced), MS Word  
+- **Learning:** Flexbox, Grid Layout, Data Science  
+
+---
+
+## 🚀 Projects (coming soon)
+
+- Login Page (HTML/CSS)  
+- Resume Web Page  
+- Excel Dashboard (Sales Report)  
+- Python Data Tools (Basic Scripts)
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/pankajs7269/)  
+- Email: pankajsingh727469@gmail.com
